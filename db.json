@@ -20,6 +20,20 @@
             "IMDB_Rating" : 7.2,
             "ticket" : 200
         }
+    ],
+    "users":[
+        {
+            "id":1,
+            "username":"pranay",
+            "email":"pranay@gmail.com",
+            "password":"1234"
+        },
+        {
+            "id":2,
+            "username":"yash",
+            "email":"yash@gmail.com",
+            "password":"1234"
+        }
     ]
 }
 
